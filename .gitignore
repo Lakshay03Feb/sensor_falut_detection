@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-set_variables.py
+set_environs.py
