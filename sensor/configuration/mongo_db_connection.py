@@ -1,7 +1,7 @@
 import pymongo
 from sensor.constants.database import DATABASE_NAME
 import certifi
-import sensor.constants.set_environs as se
+import sensor.constants.set_environ as se
 ca =  certifi.where()
 
 class MongoDBClient:
